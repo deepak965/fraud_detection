@@ -1,0 +1,24 @@
+# Data
+*.csv
+*.xlsx
+
+# Models
+*.pkl
+*.pk1
+trained_model/
+
+# Presentations
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+
